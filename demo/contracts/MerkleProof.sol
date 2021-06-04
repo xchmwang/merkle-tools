@@ -37,3 +37,6 @@ library MerkleProof {
         return computedHash == root;
     }
 }
+
+// Note: See `test/utils/cryptography/MerkleProof.test.js` for some examples.
+//
